@@ -1,11 +1,10 @@
-<h1 align="center">
+<h3 align="center">
   <br>
   <a href="https://cheesecakelabs.com/"><img src="https://image.ibb.co/jc1Swn/logo.png" alt="Cheesecake Labs" width="200"></a>
   <br>
   Cheesecake Libs
   <br>
-</h1>
-
+</h3>
 <h6 align="center">A 'built faster' repo of library to suggest and reference past used libs.</h6>
 
 ## Filter by plataform
