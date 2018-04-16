@@ -10,10 +10,14 @@
 [Github Link](https://github.com/airbnb/lottie-ios)
 
 #### Projects
+```
 Integrador
+```
 
 #### Comments
-Convert after effects animations to json
+```
+Imported dashboard animations and onboard animations with lottie
+```
 
 #### Added
 18/10/2017
