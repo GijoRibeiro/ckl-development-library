@@ -1,5 +1,7 @@
-# iOS
+<a href="https://github.com/GijoRibeiro/development-library/blob/master/ios.md"><img src="https://cdn1.iconfinder.com/data/icons/simple-icons/256/apple-256-black.png" alt="iOS List" width="50"></a>
 
+<br>
+<br>
 
 # Lottie
 
@@ -8,14 +10,10 @@
 [Github Link](https://github.com/airbnb/lottie-ios)
 
 #### Projects
-```bash
 Integrador
-```
 
 #### Comments
-```bash
 Convert after effects animations to json
-```
 
 #### Added
 18/10/2017
