@@ -5,7 +5,7 @@
 
 # Lottie [Github](https://github.com/airbnb/lottie-ios)
 
-![Sweet Alert Dialog](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples3.gif)
+![Gif](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
 
 #### Projects
 ```
