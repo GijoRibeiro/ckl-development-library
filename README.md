@@ -20,14 +20,17 @@
 With these lines we are able to identify the project where it was used, and if possible, how it was used.
 If the lib was suggested, the project name is not necessary
 
-```bash
+```
 Library Title
 
-Project Used
+Image
 
-Link
+Projects used
 
-Added date: 18/10/2017
+Comments
 
-Comments: Any comments regarding use or specificities here.
+Data added
+
 ```
+
+
